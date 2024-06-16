@@ -1,3 +1,7 @@
-console.log("Hello World");
+const m = "mercado pago"
 
-console.log("My name is Isaac!");
+console.log("Hello World")
+
+console.log("My name is Isaac!")
+
+console.log(m)
